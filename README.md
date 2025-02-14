@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Ben
 
+- 🎓 Final year Computer Science student at the University of York
+- 🔭 I’m currently working on my dissertation to build an Elastic Stack Kibana Plugin to help monitor unresponsive data sources.
+
+  
 <!--
 **ben260/ben260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
