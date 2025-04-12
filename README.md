@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Ben
 
 - 🎓 Final year Computer Science student at the University of York
-- 🔭 I’m currently working on my dissertation to build an Elastic Stack Kibana Plugin to help monitor unresponsive data sources.
+- 🔭 I’m currently working on my dissertation to build a web-based tool to help monitor unresponsive data sources in Elasticsearch.
 
   
 <!--
