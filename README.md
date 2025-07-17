@@ -1,7 +1,11 @@
 ## Hi 👋 I'm Ben
 
-- 🎓 Final year Computer Science student at the University of York
-- 🔭 I’m currently working on my dissertation to build a web-based tool to help monitor unresponsive data sources in Elasticsearch.
+- 🎓 Recent Computer Science graduate from the University of York  
+- 🔭 Currently building a web-based tool to help monitor unresponsive data sources in Elasticsearch  
+
+If you have any feedback on my projects or would like to collaborate, I’d love to hear from you!  
+
+- 📫 Reach out via email: benharris146@gmail.com
 
   
 <!--
