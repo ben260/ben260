@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Ben
 
-- 🎓 Recent Computer Science graduate from the University of York
+- 🎓 Computer Science graduate from the University of York
 - 🔭 Experienced in building web applications using Next.js  
 - ☁️ Certified AWS Cloud Practitioner 
 - 💡 Currently building a web-based tool to help monitor unresponsive data sources in Elasticsearch
